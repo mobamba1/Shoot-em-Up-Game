@@ -1,0 +1,173 @@
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Art\Bullet.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Art\Player.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Art\Pointer.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Art\Seeker.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Art\Wanderer.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\explosion-01.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\explosion-02.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\explosion-03.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\explosion-04.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\explosion-05.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\explosion-06.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\explosion-07.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\explosion-08.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\Music.wma
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\Music.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\shoot-01.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\shoot-02.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\shoot-03.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\shoot-04.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\spawn-01.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\spawn-02.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\spawn-03.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\spawn-04.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\spawn-05.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\spawn-06.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\spawn-07.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\spawn-08.xnb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\ShootShapesUp.exe.manifest
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\ShootShapesUp.application
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\ShootShapesUp.exe
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\ShootShapesUp.pdb
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\obj\x86\Debug\ShootShapesUp.csprojResolveAssemblyReference.cache
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\obj\x86\Debug\ShootShapesUp.exe.manifest
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\obj\x86\Debug\ShootShapesUp.application
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\obj\x86\Debug\ShootShapesUp.exe
+C:\Users\csstddg\Desktop\ShootShapesUp\ShootShapesUp\obj\x86\Debug\ShootShapesUp.pdb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\obj\x86\Debug\ShootShapesUp.exe
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\obj\x86\Debug\ShootShapesUp.pdb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Font.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Art\Boss.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Art\Bullet.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Art\Hero.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Art\Player.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Art\Pointer.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Art\Seeker.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Art\Wanderer.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\explosion-01.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\explosion-02.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\explosion-03.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\explosion-04.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\explosion-05.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\explosion-06.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\explosion-07.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\explosion-08.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\Music.wma
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\Music.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\shoot-01.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\shoot-02.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\shoot-03.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\shoot-04.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\spawn-01.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\spawn-02.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\spawn-03.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\spawn-04.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\spawn-05.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\spawn-06.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\spawn-07.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Sound\spawn-08.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\ShootShapesUp.exe.manifest
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\ShootShapesUp.application
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\ShootShapesUp.exe
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\ShootShapesUp.pdb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\MonoGame.Framework.dll
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.dll
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.XInput.dll
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\MonoGame.Framework.xml
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.xml
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.XInput.xml
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\obj\x86\Debug\ShootShapesUp.csprojResolveAssemblyReference.cache
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\obj\x86\Debug\ShootShapesUp.exe.manifest
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\obj\x86\Debug\ShootShapesUp.application
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Art\Rockets.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Art\MainMenu.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Art\BFBB.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Art\L2BB.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Art\GWBB.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Font1.xnb
+H:\Final Year 2019\Media and Games\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\Content\Art\BG.xnb
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\ShootShapesUp.exe.manifest
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\ShootShapesUp.application
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\ShootShapesUp.exe
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\ShootShapesUp.pdb
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\obj\x86\Debug\ShootShapesUp.csprojAssemblyReference.cache
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\obj\x86\Debug\ShootShapesUp.csproj.CoreCompileInputs.cache
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\obj\x86\Debug\ShootShapesUp.exe.manifest
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\obj\x86\Debug\ShootShapesUp.application
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\obj\x86\Debug\ShootShapesUp.csproj.CopyComplete
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\obj\x86\Debug\ShootShapesUp.exe
+C:\Users\kenne\Downloads\ShootShapesUp\ShootShapesUp\ShootShapesUp\obj\x86\Debug\ShootShapesUp.pdb
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\ShootShapesUp.exe.manifest
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\ShootShapesUp.application
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\ShootShapesUp.exe
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\ShootShapesUp.pdb
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\obj\x86\Debug\ShootShapesUp.csprojAssemblyReference.cache
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\obj\x86\Debug\ShootShapesUp.csproj.CoreCompileInputs.cache
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\obj\x86\Debug\ShootShapesUp.exe.manifest
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\obj\x86\Debug\ShootShapesUp.application
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\obj\x86\Debug\ShootShapesUp.csproj.CopyComplete
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\obj\x86\Debug\ShootShapesUp.exe
+C:\Users\kenne\Downloads\1521412\1521412\ShootShapesUp\ShootShapesUp\ShootShapesUp\ShootShapesUp\obj\x86\Debug\ShootShapesUp.pdb
